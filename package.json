@@ -1,0 +1,31 @@
+{
+  "name": "vsphere-schema",
+  "version": "0.0.1",
+  "description": "vSphere API Schema in JSON format",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhoriuchi/vsphere-schema.git"
+  },
+  "keywords": [
+    "vsphere"
+  ],
+  "author": "Branden Horiuchi <bhoriuchi@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/bhoriuchi/vsphere-schema",
+  "bugs": {
+    "url": "https://github.com/bhoriuchi/vsphere-schema/issues"
+  },
+  "dependencies": {
+    "lodash": "^3.10.1",
+    "xml2json": "^0.9.0",
+    "debate": "^0.0.3",
+    "bluebird": "^3.1.1"
+  },
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "directories": {
+    "example": "example"
+  }
+}
