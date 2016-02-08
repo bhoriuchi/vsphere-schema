@@ -8,4 +8,4 @@ var vm = schema['5.1'].VirtualMachine.properties;
 
 //console.log(JSON.stringify(schema['5.1'].VirtualMachine.properties, null, '  '));
 
-console.log(schema.getProperty('5.1', 'VirtualMachine', 'config'));
+console.log(schema.getProperty('6.0', 'VirtualMachine', 'config'));
