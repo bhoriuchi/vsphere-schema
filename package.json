@@ -16,10 +16,7 @@
   "bugs": {
     "url": "https://github.com/bhoriuchi/vsphere-schema/issues"
   },
-  "devDependencies": {
-    "bluebird": "^3.2.2",
-	"cheerio": "^0.20.0"
-  },
+  "devDependencies": {},
   "dependencies": {
   	"lodash": "^4.3.0"
   },
